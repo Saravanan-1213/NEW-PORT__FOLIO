@@ -10,11 +10,11 @@ const AboutContent = () => {
       <div className="left">
         <h1>Who Am I?</h1>
         <p>
-          I am a Full Stack Developer. I also make the website server more &
-          more interactive with web animations.
+          I'm a Full Stack Developer. I also make the website server more & more
+          interactive with web animations.
         </p>
         <a
-          href="https://drive.google.com/file/d/1nygtfS96BihaQhcb_mOlxW4LpErAUiS6/view?usp=sharing"
+          href="https://drive.google.com/file/d/1QUlZjoLJHxBPVOxklR463uZY2S7ugwQw/view?usp=sharing"
           target="_blank"
         >
           <button className="btn">Download CV</button>
