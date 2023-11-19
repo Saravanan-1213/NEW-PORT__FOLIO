@@ -9,7 +9,7 @@ const ProjectCardData = [
     imgsrc: pro1,
     title: "Recipe App",
     text: "This Application is used to create recipes and save recipes which are created with this application",
-    view: "https://heroic-moonbeam-9beb35.netlify.app",
+    view: "https://master--dreamy-beignet-ca4efe.netlify.app",
     source: "https://github.com/Saravanan-1213/recipe",
   },
   {
