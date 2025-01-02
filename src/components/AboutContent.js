@@ -14,7 +14,7 @@ const AboutContent = () => {
           interactive with web animations.
         </p>
         <a
-          href="https://drive.google.com/file/d/1idpZcO1gENhw4Ed3rvdlZebVIhbQkOfv/view?usp=sharing"
+          href="https://drive.google.com/file/d/1X4pErtQynP-kAbuglEwtSdpl7SEDZlwJ/view?usp=sharing"
           target="_blank"
         >
           <button className="btn">Download CV</button>
